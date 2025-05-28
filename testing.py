@@ -24,3 +24,4 @@ if __name__ == "__main__":
 # The test cases cover different scenarios to ensure the function works correctly.
 # The code is structured to be run as a script, executing the tests when run directly.
 # The code is designed to validate words based on specific criteria and includes a set of tests to ensure correctness.
+print("hello world")
