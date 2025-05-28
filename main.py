@@ -39,7 +39,7 @@ while True:
 
     cv2.imshow('Face Detection App', frame)
     
-    # Press 'q' to exit the loop
+ 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
